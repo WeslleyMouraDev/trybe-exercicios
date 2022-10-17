@@ -25,3 +25,25 @@
   .border {
     border: 5px solid black;
   }
+
+
+  /* codigos de configuraçãod o estilo do index 2.html */
+  .super-mario {
+    width: 200px;
+  }
+  
+  .goomba {
+    width: 100px;
+  }
+  
+  .baloon {
+  
+  }
+  
+  .speach {
+    font-size: 25px;
+  }
+  
+  .bowser {
+    width: 200px;
+  }
