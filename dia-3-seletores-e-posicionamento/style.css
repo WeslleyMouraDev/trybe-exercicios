@@ -33,11 +33,18 @@
   }
   
   .goomba {
+    position: absolute;
     width: 100px;
+    left: 50px;
+    bottom: 100px;
   }
   
   .baloon {
-  
+    position: absolute;
+    width: 200px;
+    left: 300px;
+    z-index: 1;
+
   }
   
   .speach {
@@ -46,4 +53,15 @@
   
   .bowser {
     width: 200px;
+    position: absolute;
+    left: 450px;
+    top: 200px;
+  }
+
+  #baloontext {
+    position: absolute;
+    width: 200px;
+    left: 330px;
+    top: 80px;
+    z-index: 2;
   }
