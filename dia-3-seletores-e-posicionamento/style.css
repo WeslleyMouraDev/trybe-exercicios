@@ -26,8 +26,8 @@
     border: 5px solid black;
   }
 
-
-  /* codigos de configuraçãod o estilo do index 2.html */
+    /* ------------------------------------------------------------------------------------- */
+    /* codigos de configuraçãod o estilo do index 2.html */
   .super-mario {
     width: 200px;
   }
@@ -65,3 +65,5 @@
     top: 80px;
     z-index: 2;
   }
+
+  /* ------------------------------------------------------------------------------------- */
